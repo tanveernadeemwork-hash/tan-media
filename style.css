@@ -78,7 +78,7 @@ em.under { background: linear-gradient(var(--mint), var(--mint)) 0 88% / 0 0.22e
 
 /* service rows */
 .sec-head { display: flex; flex-direction: column; gap: 14px; margin-bottom: 40px; }
-.group-title { font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.16em; font-weight: 700; color: var(--blue); margin: 44px 0 10px; }
+.group-title { font-family: var(--font-display); font-size: 1.9rem; font-weight: 700; letter-spacing: -0.02em; color: var(--ink); margin: 56px 0 14px; }
 .group-title:first-of-type { margin-top: 0; }
 .rows { border-top: 2px solid var(--ink); }
 .row { display: grid; grid-template-columns: 56px 1.1fr 1.6fr 40px; gap: 18px; align-items: center; padding: 22px 12px; border-bottom: 1px solid var(--grey); text-decoration: none; transition: background .25s ease, padding .25s ease; }
