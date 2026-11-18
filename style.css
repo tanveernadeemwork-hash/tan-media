@@ -175,3 +175,15 @@ em.under { background: linear-gradient(var(--mint), var(--mint)) 0 88% / 0 0.22e
   .track { flex-wrap: wrap; width: auto; }
 }
 @media (max-width: 640px) { .nav-cta { display: none; } .nav { padding: 10px 0; } }
+
+/* TAN tile logo */
+.tiles { display: inline-flex; gap: 4px; }
+.tiles i { width: 32px; height: 32px; border-radius: 7px; display: flex; align-items: center; justify-content: center; font-style: normal; font-weight: 700; font-size: 1.05rem; line-height: 1; transition: transform .25s ease; }
+.tiles .t1 { background: var(--blue); color: #fff; }
+.tiles .t2 { background: var(--mint); color: #14161F; }
+.tiles .t3 { background: var(--red); color: #fff; }
+.brand:hover .tiles i:nth-child(1) { transform: translateY(-3px) rotate(-4deg); }
+.brand:hover .tiles i:nth-child(2) { transform: translateY(-3px); }
+.brand:hover .tiles i:nth-child(3) { transform: translateY(-3px) rotate(4deg); }
+.bname { font-size: 1.05rem; letter-spacing: .18em; text-transform: uppercase; margin-left: 4px; }
+@media (max-width: 420px) { .bname { display: none; } }
