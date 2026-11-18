@@ -1,0 +1,27 @@
+# Tan Media
+
+> Tan Media is a UK digital marketing company run by Tan Media and Software Ltd. It provides SEO, AI search visibility, paid media, content and copywriting, video production, social media, brand and creative, podcast production, webinars and email marketing, delivered as one coordinated team.
+
+Contact: help@tanmediasoft.com
+Book a call: https://calendly.com/tanveernadeemwork/30min
+
+## Services
+
+- [SEO](https://tanveernadeemwork-hash.github.io/tan-media/services/seo.html): Steady organic traffic from people already searching for what you sell.
+- [AI search visibility](https://tanveernadeemwork-hash.github.io/tan-media/services/ai-search-visibility.html): Get your brand named and cited in answers from ChatGPT, Google AI Overviews and similar tools.
+- [Content and copywriting](https://tanveernadeemwork-hash.github.io/tan-media/services/content-copywriting.html): Website copy, articles and guides in plain language that ranks and converts.
+- [Paid media](https://tanveernadeemwork-hash.github.io/tan-media/services/paid-media.html): Paid campaigns on LinkedIn, Meta and Google, judged on leads rather than clicks.
+- [Video production](https://tanveernadeemwork-hash.github.io/tan-media/services/video-production.html): Filming direction, editing and short form cuts for social and web.
+- [Social media](https://tanveernadeemwork-hash.github.io/tan-media/services/social-media.html): Content planning, posting and community management for the channels that matter to your buyers.
+- [Brand and creative](https://tanveernadeemwork-hash.github.io/tan-media/services/brand-creative.html): Graphics, templates and guidelines so everything you publish looks like one company.
+- [Podcast](https://tanveernadeemwork-hash.github.io/tan-media/services/podcast.html): End to end production, from episode planning and editing to distribution and clips.
+- [Webinar](https://tanveernadeemwork-hash.github.io/tan-media/services/webinar.html): Planning, promotion and follow up so a live session becomes a source of leads.
+- [Email marketing](https://tanveernadeemwork-hash.github.io/tan-media/services/email-marketing.html): Newsletters, nurture sequences and re-engagement campaigns that bring people back.
+
+## Company
+
+- [Home](https://tanveernadeemwork-hash.github.io/tan-media/): Overview of Tan Media and what it does
+- [Services](https://tanveernadeemwork-hash.github.io/tan-media/services.html): Four areas and ten services
+- [Work](https://tanveernadeemwork-hash.github.io/tan-media/work.html): EasyDigz case study, a property technology platform for real estate brokerages
+- [About](https://tanveernadeemwork-hash.github.io/tan-media/about.html): The team and how Tan Media works
+- [Contact](https://tanveernadeemwork-hash.github.io/tan-media/contact.html): Send a message or book a 30 minute call
